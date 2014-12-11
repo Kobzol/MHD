@@ -2,3 +2,21 @@
   width: 1080px;
   margin: 0 auto;
 }
+.screen {
+  display: none;
+}
+.spoj {
+  padding: 15px;
+  background-color: #F5F5F5;
+  overflow: hidden;
+}
+.spoj .pgbar {
+  border-radius: 5px;
+  height: 15px !important;
+}
+.spoj .pgbar-green {
+  background: green !important;
+}
+.spoj .pgbar-red {
+  background: red !important;
+}
