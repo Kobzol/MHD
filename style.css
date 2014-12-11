@@ -4,6 +4,7 @@
 }
 .screen {
   display: none;
+  width: 1080px;
 }
 .spoj {
   padding: 15px;
